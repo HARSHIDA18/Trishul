@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.grid-container {
+  display: grid;
+}
+#sidebar {
+}
+.header {
+}
+.main-container {
+}
